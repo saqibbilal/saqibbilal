@@ -1,11 +1,19 @@
 <div align="center">
 
 <!-- 🔥 Hero GIF -->
-<img src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" width="100%" />
+
+[//]: # (<img src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" width="100%" />)
+
+<img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/header.png" width="100%" />
+
+<br/><br/>
+
 
 <!-- ✨ Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saqib+Bilal;Full-Stack+Developer;Laravel+%2B+React+Specialist;Building+Real-World+Apps+🚀" />
-
+<h1 align="center">
+  Hi! My name is Muhammad Saqib Bilal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
+<p>A passionate <b>Full Stack Developer</b> and <b>Software Engineer</b></p>
 <br/><br/>
 
 <!-- 🔗 Links -->
