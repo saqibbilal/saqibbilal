@@ -1,78 +1,132 @@
-<!-- Animated Header -->
-<p align="center">
-  <!-- Example Lottie GIF animation embed -->
-  <img src="https://lottie.host/2f6cbd6f-f1dc-4ea0-9cd6-5ef43d54e1f1/1NikeG8pYZ.json" width="100%" alt="Coding Animation"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Saqib Bilal</h1>
-<p align="center">Senior Full Stack Developer 🚀 | Backend → Full Stack | Always Building & Learning</p>
+<!-- 🔥 Hero GIF -->
+<img src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif" width="100%" />
 
-<p align="center">
-  <a href="https://mbilal.ca" target="_blank">🌐 Portfolio</a> •
-  <a href="https://github.com/saqibbilal" target="_blank">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/saqibbilal/" target="_blank">🔗 LinkedIn</a> •
-  <a href="mailto:saqib_bilal786@yahoo.com">📧 Email</a>
-</p>
+<!-- ✨ Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saqib+Bilal;Full-Stack+Developer;Laravel+%2B+React+Specialist;Building+Real-World+Apps+🚀" />
 
----
+<br/><br/>
 
-### 💼 About Me
-I’m a self‑motivated developer based in **Markham, Ontario, Canada** with years of experience building and optimizing high‑impact applications. I transitioned from **backend PHP development** into a broader **full stack role**, now proficient with modern stacks like Node.js, React/Next.js, and database systems like PostgreSQL and MySQL. I love solving real‑world problems with clean code and best practices.🚀 :contentReference[oaicite:0]{index=0}
+<!-- 🔗 Links -->
+<a href="https://mbilal.ca" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+<a href="https://github.com/saqibbilal" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/saqibbilal/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:saqib_bilal786@yahoo.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-When I’m not coding, you’ll find me **gaming 🎮** or watching **anime 📺** — both fuel my creativity and focus.
+<br/><br/>
 
----
+<!-- 🧠 Identity Badges -->
+<img src="https://img.shields.io/badge/Full--Stack-6366f1?style=flat-square&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel%20Expert-ff2d20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20%2F%20Next.js-61dafb?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Building%20Real%20Products-22c55e?style=flat-square&logo=vercel&logoColor=white" />
 
-### 💻 Tech Stack (Modern In‑Demand Skills)
-<p align="center">
-  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" />
-  <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" />
-  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" />
-  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node-dot-js.svg" />
-  <img alt="Express" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" />
-  <img alt="Laravel" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/laravel.svg" />
-  <img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/php.svg" />
-  <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" />
-  <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/docker.svg" />
-  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saqibbilal&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibbilal&layout=compact&theme=radical" width="48%" />
-</p>
+## ⚡ Quick Byte
+
+Full-stack developer focused on building **real-world, scalable applications**.
+
+Started with **backend (PHP/Laravel)** → evolved into **modern full stack** using  
+**React, Next.js, Node.js, and system design principles**.
+
+I enjoy solving complex problems, optimizing performance, and building tools that actually **save time and create impact**.
+
+🎮 Gamer | 📺 Anime fan | 🚀 Builder mindset
 
 ---
 
-### 🌟 Featured Projects
-<p align="center">
-  <!-- Animated project badges/cards -->
-  <a href="https://github.com/saqibbilal/pathlog">
-    <img src="https://img.shields.io/github/stars/saqibbilal/pathlog?style=for-the-badge&logo=github&label=PathLog" alt="PathLog"/>
-  </a>
-  <a href="https://github.com/saqibbilal/manasurge">
-    <img src="https://img.shields.io/github/stars/saqibbilal/manasurge?style=for-the-badge&logo=github&label=ManaSurge" alt="ManaSurge"/>
-  </a>
-  <a href="https://github.com/saqibbilal/wallpaper-uploader">
-    <img src="https://img.shields.io/github/stars/saqibbilal/wallpaper-uploader?style=for-the-badge&logo=github&label=WallpaperUploader" alt="WallpaperUploader"/>
-  </a>
-</p>
-<p align="center">
-  <sub>⭐ Click badges above to explore live projects</sub>
-</p>
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/saqibbilal/pathlog-api">
+  <img src="https://img.shields.io/badge/PathLog-AI%20Job%20Tracker-6366f1?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<b>PathLog — AI-powered job tracking platform</b>
+
+⚙️ Backend: Laravel + Sanctum + Stripe  
+🎨 Frontend: React + Tailwind + Zustand  
+🧠 AI Layer: Smart automation workflows
+
+</div>
 
 ---
 
-### 🧠 Journey & Fun Facts
-- ✨ Started as a **backend developer** specializing in **PHP, Laravel, WordPress, and APIs**. :contentReference[oaicite:1]{index=1}
-- 🚀 Evolved into **full stack development**, building user‑centric apps with React/Next.js + Node.js.
-- 💡 Passionate about best practices, clean code, and creating robust systems that scale.
-- 🎮 Big fan of **video games** — they keep me inspired and detail‑oriented.
-- 📺 Anime lover — creative visuals & storytelling are my fuel.
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🚀 Core
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,laravel,php" />
+
+### 🧠 Backend & Systems
+<img src="https://skillicons.dev/icons?i=express,postgres,mysql,docker" />
+
+### 🎨 Frontend & Tools
+<img src="https://skillicons.dev/icons?i=tailwind,js,git,github,vscode" />
+
+</div>
 
 ---
 
-<p align="center">Thanks for stopping by! 👨‍💻</p>
+## 📊 Dev Metrics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqibbilal&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqibbilal&layout=compact&theme=tokyonight" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=saqibbilal&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📚 Continuous Learning
+
+- ⚛️ Advanced **React / Next.js patterns**
+- 🐘 Deep diving into **Laravel architecture**
+- 🧠 System design + scalable backend patterns
+- 🤖 Exploring **AI-integrated workflows**
+
+---
+
+## 🎯 Philosophy
+
+> I don’t just write code — I build systems that solve real problems.
+
+From backend foundations in Laravel to full-stack architectures with React and Node.js,  
+my focus is always the same: **performance, scalability, and real-world impact.**
+
+I believe in:
+- ⚡ Moving fast, but with clean and maintainable code
+- 🧠 Constant learning and adapting to modern tech
+- 🛠️ Building products that actually make life easier
+
+At the end of the day —  
+**code is just the tool, impact is the goal.**
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=saqibbilal&color=6366f1&style=flat-square&label=PROFILE+VIEWS" />
+
+</div>
