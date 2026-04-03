@@ -55,10 +55,11 @@ I enjoy solving complex problems, optimizing performance, and building tools tha
 
 </div>
 
+---
 
 <div align="center">
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ### 🚀 Core
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,laravel,php" />
@@ -96,8 +97,8 @@ I enjoy solving complex problems, optimizing performance, and building tools tha
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/saqibbilal/pathlog-api">
-  <div style="height:360px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/Pathlog.png" style="height:100%; width:100%; object-fit:contain;" />
+  <div style="height:360px;">
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/Pathlog.png" style="max-height:100%; max-width:100%;" />
   </div>
 </a>
 
@@ -126,8 +127,8 @@ An intelligent job tracking system that automates application management using a
 <td width="50%" align="center" valign="top">
 
 <a href="https://mbilal.ca/projects/devpulse">
-  <div style="height:360px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/DevPulse.png" style="height:100%; width:100%; object-fit:contain;" />
+  <div style="height:360px;">
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/DevPulse.png" style="max-height:100%; max-width:100%;" />
   </div>
 </a>
 
@@ -159,8 +160,8 @@ Tracks developer workflows and transforms activity into **actionable performance
 <td width="50%" align="center" valign="top">
 
 <a href="https://mbilal.ca/projects/taskflow">
-  <div style="height:360px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/TaskFlowBright.png" width="100%" />
+  <div style="height:360px;">
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/TaskFlowBright.png" style="max-height:100%; max-width:100%;" />
   </div>
 </a>
 
@@ -188,8 +189,8 @@ Designed to manage complex workflows with clarity and structure.
 <td width="50%" align="center" valign="top">
 
 <a href="https://mbilal.ca/projects/keepr">
-  <div style="height:360px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/keepr.png" style="height:100%; width:100%; object-fit:contain;" />
+  <div style="height:360px;">
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/keepr.png" style="max-height:100%; max-width:100%;" />
   </div>
 </a>
 
@@ -224,12 +225,12 @@ A minimal, intuitive system for managing personal finances effectively.
 
 <div align="center">
 
-## 📊 Dev Metrics
+### 📊 Dev Metrics
 
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqibbilal&show_icons=true&theme=tokyonight&count_private=true" />
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqibbilal&layout=compact&theme=tokyonight" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=saqibbilal&theme=tokyonight" />
 
@@ -239,7 +240,7 @@ A minimal, intuitive system for managing personal finances effectively.
 
 <div align="center">
 
-## 📚 Continuous Learning
+### 📚 Continuous Learning
 
 - ⚛️ Advanced **React / Next.js patterns**
 - 🐘 Deep diving into **Laravel architecture**
@@ -252,7 +253,7 @@ A minimal, intuitive system for managing personal finances effectively.
 
 <div align="center">
 
-## 🎯 Philosophy
+### 🎯 Philosophy
 
 > I don’t just write code — I build systems that solve real problems.
 
