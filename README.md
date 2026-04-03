@@ -131,7 +131,7 @@ An intelligent job tracking system that automates application management using a
 <br/>
 
 ⚙️ Laravel 12 + Stripe  
-🎨 React + TypeScript + Zustand + TanStack Query 
+🎨 React + TypeScript + Zustand + TanStack Query  
 🧠 Gemini 2.5 Flash
 
 </td>
