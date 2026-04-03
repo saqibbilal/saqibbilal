@@ -44,7 +44,7 @@
 
 <div align="center">
 
-## ⚡ Quick Byte
+### ⚡ Quick Byte
 
 Full-stack developer focused on building **real-world, scalable applications**.
 
@@ -55,7 +55,6 @@ I enjoy solving complex problems, optimizing performance, and building tools tha
 
 </div>
 
----
 
 <div align="center">
 
@@ -76,14 +75,9 @@ I enjoy solving complex problems, optimizing performance, and building tools tha
 <br/>
 
 <p>
-  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/mage.png" width="20px" /> Level 26 Human
-  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/system.png" width="20px" /> System Architect
+  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/mage.png" width="20px" /> Level 26 Mage | 
+  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/system.png" width="20px" /> System Architect | 
   <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/loot.png" width="20px" /> Loot Collector
-</p>
-
-
-<p>
-  🧙🏼‍♂️ Level 26 Human | 🧠 System Architect | 🧩 Loot Collector
 </p>
 
 <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/banner.gif" width="1000px" />
@@ -94,7 +88,7 @@ I enjoy solving complex problems, optimizing performance, and building tools tha
 
 <div align="center">
 
-## 🚀 Projects
+### 🚀 Projects
 
 <table>
 <tr>
@@ -166,7 +160,7 @@ Tracks developer workflows and transforms activity into **actionable performance
 
 <a href="https://mbilal.ca/projects/taskflow">
   <div style="height:360px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/TaskFlowBright.png" style="height:100%; width:100%; object-fit:contain;" />
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/TaskFlowBright.png" width="100%" />
   </div>
 </a>
 
