@@ -1,6 +1,8 @@
 <div align="center">
 
+<p>
 <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/header.png" width="100%" />
+</p>
 
 <br/>
 
@@ -33,10 +35,12 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Full--Stack-6366f1?style=flat-square&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel%20Expert-ff2d20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20%2F%20Next.js-61dafb?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Building%20Real%20Products-22c55e?style=flat-square&logo=vercel&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/Full--Stack-6366f1?style=flat-square&logo=codeforces&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Laravel%20Expert-ff2d20?style=flat-square&logo=laravel&logoColor=white" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/React%20%2F%20Next.js-61dafb?style=flat-square&logo=react&logoColor=black" style="pointer-events: none;" />
+<img src="https://img.shields.io/badge/Building%20Real%20Products-22c55e?style=flat-square&logo=vercel&logoColor=white" style="pointer-events: none;" />
+</p>
 
 </div>
 
@@ -62,13 +66,19 @@ I enjoy solving complex problems, optimizing performance, and building tools tha
 ### 🛠️ Tech Stack
 
 ### 🚀 Core
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,laravel,php" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,laravel,php" />
+</p>
 
-### 🧠 Backend & Systems
-<img src="https://skillicons.dev/icons?i=express,postgres,mysql,docker" />
+### 🧠 DataBases, Tools & Systems
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws" />
+</p>
 
-### 🎨 Frontend & Tools
-<img src="https://skillicons.dev/icons?i=tailwind,js,git,github,vscode" />
+### 🎨 Frontend Libraries & Utilities
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,js,git,github" />
+</p>
 
 </div>
 
@@ -76,12 +86,14 @@ I enjoy solving complex problems, optimizing performance, and building tools tha
 <br/>
 
 <p>
-  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/mage.png" width="30px" /> Level 26 Mage | 
+  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/mage.png" width="20px" /> Level 26 Mage | 
   <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/system.png" width="30px" /> System Architect | 
   <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/loot.png" width="30px" /> Loot Collector
 </p>
 
-<img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/banner.gif" width="1000px" />
+<p>
+<img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/banner.gif" width="90%" />
+</p>
 
 </div>
 
@@ -96,9 +108,9 @@ I enjoy solving complex problems, optimizing performance, and building tools tha
 
 <td width="50%" align="center" valign="top" style="background-color: transparent;">
 
-<a href="https://github.com/saqibbilal/pathlog-api">
-  <div style="height:360px;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/Pathlog.png" style="max-height:100%; max-width:100%;" />
+<a href="https://github.com/saqibbilal/pathlog-api" target="_blank">
+  <div style="height:220px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/Pathlog.png" style="height:100%; width:100%; object-fit:contain;" />
   </div>
 </a>
 
@@ -112,44 +124,44 @@ An intelligent job tracking system that automates application management using a
 
 <br/><br/>
 
-• Automated job data capture from platforms  
-• AI-powered structured data extraction  
-• Unified dashboard for tracking applications
+• Automated job data capture  
+• AI-powered data extraction  
+• Unified dashboard
 
 <br/>
 
 ⚙️ Laravel 12 + Stripe  
-🎨 React + Tailwind + Zustand  
+🎨 React + TypeScript + Zustand + TanStack Query 
 🧠 Gemini 2.5 Flash
 
 </td>
 
 <td width="50%" align="center" valign="top" style="background-color: transparent;">
 
-<a href="https://mbilal.ca/projects/devpulse">
-  <div style="height:360px;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/DevPulse.png" style="max-height:100%; max-width:100%;" />
+<a href="https://mbilal.ca/projects/devpulse" target="_blank">
+  <div style="height:220px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/DevPulse.png" style="height:100%; width:100%; object-fit:contain;" />
   </div>
 </a>
 
 <br/>
 
-<b>DevPulse — Developer Analytics Engine</b>
+<b>DevPulse — Developer Portfolio</b>
 
 <br/><br/>
 
-Tracks developer workflows and transforms activity into **actionable performance insights**.
+Modern developer **Portfolio**.
 
 <br/><br/>
 
-• Real-time metrics aggregation  
-• Developer productivity insights  
-• Clean, decision-focused dashboard
+• Skill metrics  
+• Projects  
+• Light weight and fast
 
 <br/>
 
-⚙️ Node.js + PostgreSQL  
-🎨 React + Tailwind
+⚙️ Laravel 12 + Sanctum + PostgreSQL  
+🎨 Next js 15 + Tailwind + TypeScript
 
 </td>
 
@@ -159,9 +171,9 @@ Tracks developer workflows and transforms activity into **actionable performance
 
 <td width="50%" align="center" valign="top" style="background-color: transparent;">
 
-<a href="https://mbilal.ca/projects/taskflow">
-  <div style="height:360px;">
-    <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/TaskFlowBright.png" style="max-height:100%; max-width:100%;" />
+<a href="https://mbilal.ca/projects/taskflow" target="_blank">
+  <div style="height:220px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/TaskFlowBright.png" style="height:100%; width:100%; object-fit:contain;" />
   </div>
 </a>
 
@@ -171,47 +183,47 @@ Tracks developer workflows and transforms activity into **actionable performance
 
 <br/><br/>
 
-Designed to manage complex workflows with clarity and structure.
+Manage workflows with clarity and structure.
 
 <br/><br/>
 
-• Kanban workflow system  
-• Task lifecycle tracking  
-• Collaboration-ready architecture
+• Projects with Tasks  
+• Task lifecycle  
+• Collaboration-ready
 
 <br/>
 
 ⚙️ Laravel + MySQL  
-🎨 React + Tailwind
+🎨 Next js 15 + Tailwind + TypeScript
 
 </td>
 
 <td width="50%" align="center" valign="top" style="background-color: transparent;">
 
-<a href="https://mbilal.ca/projects/keepr">
-  <div style="height:360px;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/keepr.png" style="max-height:100%; max-width:100%;" />
+<a href="https://mbilal.ca/projects/keepr" target="_blank">
+  <div style="height:220px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/keepr.png" style="height:100%; width:100%; object-fit:contain;" />
   </div>
 </a>
 
 <br/>
 
-<b>Keepr — Personal Finance System</b>
+<b>Keepr — Personal File Management System</b>
 
 <br/><br/>
 
-A minimal, intuitive system for managing personal finances effectively.
+Minimal system for managing files and documents.
 
 <br/><br/>
 
-• Expense tracking & categorization  
-• Budget planning & insights  
-• Clean, distraction-free UX
+• OCS system  
+• Budget insights  
+• Clean UX
 
 <br/>
 
-⚙️ Node.js + MongoDB  
-🎨 Next.js + Tailwind
+⚙️ Laravel 12 + PostgreSQL  
+🎨 Next.js + Tailwind + TypeScript
 
 </td>
 
@@ -227,12 +239,16 @@ A minimal, intuitive system for managing personal finances effectively.
 
 ### 📊 Dev Metrics
 
+<p>
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saqibbilal&show_icons=true&theme=tokyonight&count_private=true" />
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saqibbilal&layout=compact&theme=tokyonight" />
+</p>
 
 <br/><br/>
 
+<p>
 <img src="https://streak-stats.demolab.com?user=saqibbilal&theme=tokyonight" />
+</p>
 
 </div>
 
@@ -257,12 +273,9 @@ A minimal, intuitive system for managing personal finances effectively.
 
 > I don’t just write code — I build systems that solve real problems.
 
-From backend foundations in Laravel to full-stack architectures with React and Node.js,  
-my focus is always the same: **performance, scalability, and real-world impact.**
-
 ⚡ Clean, fast, maintainable code  
 🧠 Constant learning  
-🛠️ Real-world impact over theory
+🛠️ Real-world impact
 
 <br/>
 
@@ -274,6 +287,8 @@ my focus is always the same: **performance, scalability, and real-world impact.*
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=saqibbilal&color=f97316&style=flat-square&label=PROFILE+VIEWS" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=saqibbilal&color=f97316&style=flat-square&label=PROFILE+VIEWS" style="pointer-events: none;" />
+</p>
 
 </div>
