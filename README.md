@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Full--Stack-6366f1?style=flat-square&logo=codeforces&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel%20Expert-ff2d20?style=flat-square&logo=laravel&logoColor=white" />
@@ -76,9 +76,9 @@ I enjoy solving complex problems, optimizing performance, and building tools tha
 <br/>
 
 <p>
-  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/mage.png" width="20px" /> Level 26 Mage | 
-  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/system.png" width="20px" /> System Architect | 
-  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/loot.png" width="20px" /> Loot Collector
+  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/mage.png" width="30px" /> Level 26 Mage | 
+  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/system.png" width="30px" /> System Architect | 
+  <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/loot.png" width="30px" /> Loot Collector
 </p>
 
 <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/banner.gif" width="1000px" />
@@ -94,7 +94,7 @@ I enjoy solving complex problems, optimizing performance, and building tools tha
 <table>
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="background-color: transparent;">
 
 <a href="https://github.com/saqibbilal/pathlog-api">
   <div style="height:360px;">
@@ -124,7 +124,7 @@ An intelligent job tracking system that automates application management using a
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="background-color: transparent;">
 
 <a href="https://mbilal.ca/projects/devpulse">
   <div style="height:360px;">
@@ -157,11 +157,11 @@ Tracks developer workflows and transforms activity into **actionable performance
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="background-color: transparent;">
 
 <a href="https://mbilal.ca/projects/taskflow">
   <div style="height:360px;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/TaskFlowBright.png" style="max-height:100%; max-width:100%;" />
+    <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/TaskFlowBright.png" style="max-height:100%; max-width:100%;" />
   </div>
 </a>
 
@@ -186,7 +186,7 @@ Designed to manage complex workflows with clarity and structure.
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center" valign="top" style="background-color: transparent;">
 
 <a href="https://mbilal.ca/projects/keepr">
   <div style="height:360px;">
