@@ -173,7 +173,7 @@ Modern developer **Portfolio**.
 
 <a href="https://mbilal.ca/projects/taskflow" target="_blank">
   <div style="height:220px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://raw.githubusercontent.com/saqibbilal/saqibbilal/main/assets/TaskFlowBright.png" style="height:100%; width:100%; object-fit:contain;" />
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/34/01KQ46Q2MV5XEGRPQFMT2T9K2K.png" style="height:100%; width:100%; object-fit:contain;" />
   </div>
 </a>
 
