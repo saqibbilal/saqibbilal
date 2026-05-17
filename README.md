@@ -110,7 +110,7 @@ I enjoy solving complex problems, optimizing performance, and building tools tha
 
 <a href="https://github.com/saqibbilal/pathlog-api" target="_blank">
   <div style="height:220px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/Pathlog.png" style="height:100%; width:100%; object-fit:contain;" />
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/41/01KQ49WB82QQZ6N091Z6CHS3RW.png" style="height:100%; width:100%; object-fit:contain;" />
   </div>
 </a>
 
@@ -140,7 +140,7 @@ An intelligent job tracking system that automates application management using a
 
 <a href="https://mbilal.ca/projects/devpulse" target="_blank">
   <div style="height:220px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/DevPulse.png" style="height:100%; width:100%; object-fit:contain;" />
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/23/01KQ43XEWSSZH4KXVVCAGGWECB.png" style="height:100%; width:100%; object-fit:contain;" />
   </div>
 </a>
 
@@ -202,7 +202,7 @@ Manage workflows with clarity and structure.
 
 <a href="https://mbilal.ca/projects/keepr" target="_blank">
   <div style="height:220px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/keepr.png" style="height:100%; width:100%; object-fit:contain;" />
+    <img src="https://devpulse-assets.s3.us-east-1.amazonaws.com/29/01KQ45ZG72FB3FJB4BXYWQ49N0.png" style="height:100%; width:100%; object-fit:contain;" />
   </div>
 </a>
 
